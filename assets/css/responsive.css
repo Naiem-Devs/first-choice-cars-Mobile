@@ -1,0 +1,349 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .nav_shape:before {
+        width: 65%;
+    }
+    
+    .nav_shape.border:before {
+        width: 65.2%;
+    }
+    
+    .nav_shape:after {
+        right: 64%;
+    }
+    
+    .hero_content {
+        padding-left: 40px;
+    }
+    
+    .hero_content h1 {
+        font-size: 80px;
+    }
+    .Full_Features_content {
+        margin-left: 0;
+    }
+    .slider_wrp {
+        max-width: 370px;
+    }
+    
+    .load_calculator {
+        padding: 30px 20px;
+    }
+    .border_wrp {
+        display: none;
+    }
+    
+    .Promise_blk {
+        margin: 30px auto;
+    }
+    .sell_icon_wrp ul li {
+        flex: 0 0 15%;
+    }
+
+/* ____________________________________________
+                        about  Page Start
+______________________________________________________________________ */
+
+
+
+/* ____________________________________________
+                        about  Page End
+___________________________________________________________________ */
+
+
+
+
+
+/* ____________________________________________
+                          Page Start
+______________________________________________________________________ */
+
+
+/*============ Area Start =============*/
+
+/*============ Area End =============*/
+
+
+
+/* ____________________________________________
+                          Page End
+___________________________________________________________________ */
+
+
+
+}
+
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    :root {
+        --f48: 40px;
+        --f40: 36px;
+        --f36: 32px;
+        --f28: 24px;
+        --f24: 20px;
+        --f20: 18px;
+        --f18: 16px;
+      --f32: 28px;
+      }
+
+    .nav_shape:before {
+        width: 66%;
+    }
+    
+    .nav_shape.border:before {
+        width: 66.3%;
+    }
+    
+    .nav_shape:after {
+        right: 64.8%;
+    }
+    .hero_title h1 {
+    }
+
+.hero_title {
+    margin-left: 50px;
+}
+    .thm_btn {
+        font-size: 16px;
+    }
+
+.nav_shape.border:after {transform: translate(-12px, 5px) scale(1.3);}
+    
+    .hero_content {
+        padding-left: 40px;
+    }
+    
+    .hero_content h1 {
+        font-size: 60px;
+    }
+
+.hero_content h1 img {
+    scale: .7;
+}
+.menu-area nav ul li a {
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.hero_content ul li {
+    padding: 0 15px;
+}
+
+.hero_content b {
+    font-size: 50px;
+}
+
+.ftu_content ul li span {
+    font-size: 14px;
+}
+
+.ftu_content ul {
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.ftu_btm p b {
+    font-size: 15px;
+}
+
+.ftu_emi {
+    padding: 0 20px;
+}
+
+.ftu_emi h6 {
+    width: max-content;
+    font-size: 13px;
+}
+
+.Feature_slider.owl_arrow .owl-nav {
+    top: 40%;
+}
+
+.Testimonial_slider {
+    padding: 0 60px;
+}
+
+.items_wrp {
+    gap: 12px;
+}
+
+.footer_nav {
+    padding-left: 20px;
+}
+
+.footer_nav.bdr {
+    margin-left: -25px;
+    padding-left: 30px;
+}
+
+.contact_wrp {
+    margin-left: -35px;
+}
+img.line-bg {
+    width: 98%;
+    top: 28%;
+}
+
+.sell_icon_wrp ul li {
+    flex: 0 0 15%;
+}
+
+
+/* ____________________________________________
+                        about  Page Start
+______________________________________________________________________ */
+
+.border_wrp {
+    display: none;
+}
+
+.Promise_blk {
+    margin: 30px auto;
+}
+.BROWSE-car h2 {
+    flex: 0 0 50%;
+}
+
+.BROWSE-car p {
+    flex: 0 0 50%;
+}
+
+.BROWSE-car {
+    flex-wrap: wrap;
+}
+
+.BROWSE-car a {
+    margin: auto;
+    margin-top: 20px;
+}
+/* ____________________________________________
+                        about  Page End
+___________________________________________________________________ */
+
+
+
+
+
+/* ____________________________________________
+                        buy_cars  Page Start
+______________________________________________________________________ */
+
+
+/*============ Area Start =============*/
+
+
+.COMPARE_car_text h4 {font-size: 17px;}
+
+.select_box .nice-select span{
+    width: 300px;
+    overflow: hidden;
+}
+/*============ Area End =============*/
+
+
+
+/* ____________________________________________
+                        buy_cars  Page End
+___________________________________________________________________ */
+
+.Full_Features_content {
+    margin-left: 0;
+}
+.ff_btn a {
+    font-size: 14px;
+}
+
+.Overview_blk ul li h6 {
+    font-size: 15px;
+    width: 130px;
+}
+
+.load_calculator {
+    max-width: 500px;
+    margin-inline: auto;
+}
+
+.emi_aed {
+    max-width: 100%;
+    margin: 60px 0 0;
+}
+
+.load_cal_btn a {
+    margin-bottom: 10px;
+}
+
+.FAQ_accordion button {
+    font-size: 20px;
+}
+
+.FAQ_accordion .accordion-body p {
+    font-size: 18px;
+}
+
+.sell_icon_wrp ul li h5{
+    font-size: 14px;
+}
+.blog_blk {
+    height: 100%;
+}
+
+.blog_right .blog_blk {
+    padding-bottom: 20px;
+}
+
+section.blog-Area .col-lg-4.col-md-6 {
+    margin-bottom: 30px;
+}
+
+.hero-Blog-Area{
+    height: 400px;
+}
+
+
+
+
+
+
+/* ____________________________________________
+                          Page Start
+______________________________________________________________________ */
+
+
+/*============ Area Start =============*/
+
+/*============ Area End =============*/
+
+
+
+/* ____________________________________________
+                          Page End
+___________________________________________________________________ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
