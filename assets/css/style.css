@@ -3435,7 +3435,9 @@ ______________________________________________________________________ */
     height: 120px;
     padding-top: 13px;
 }
-.contact_form_blk input{}
+.contact_form_blk input{
+  font-family: initial;
+}
 
 
 
@@ -3446,18 +3448,18 @@ ______________________________________________________________________ */
 
 .contact_form_blk input::placeholder {
   font-size: 14px;
-  color: #858585;
+  color: red;
 }
 
 
 .contact_form_blk input::-webkit-input-placeholder
 {
-  color: #858585;
+  color: red;
 }
 
 .contact_form_blk input::-moz-placeholder
 {
-  color: #858585;
+  color: red;
 }
 
 
