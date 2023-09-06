@@ -3462,17 +3462,17 @@ ______________________________________________________________________ */
   color: red;
 }
 
-input::placeholder {
-  opacity: 1 !important; 
-}
-
 input::-webkit-input-placeholder {
   opacity: 1 !important; 
+  overflow: visible !important;
+  line-height: 1;
 }
 
 
 input::placeholder {
  overflow: visible !important;
+ opacity: 1 !important; 
+ line-height: 1;
 }
 
 .robot_vfy {
