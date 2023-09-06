@@ -3462,12 +3462,12 @@ ______________________________________________________________________ */
   color: red;
 }
 
-.contact_form_blk  input::-webkit-input-placeholder {
-  opacity: 1 !important; / Increase opacity to /
+input::-webkit-input-placeholder {
+  opacity: 1 !important; 
 }
 
 
-.contact_form_blk  input::placeholder {
+input::placeholder {
  overflow: visible !important;
 }
 
