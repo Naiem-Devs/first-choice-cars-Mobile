@@ -3462,6 +3462,10 @@ ______________________________________________________________________ */
   color: red;
 }
 
+input::placeholder {
+  opacity: 1 !important; 
+}
+
 input::-webkit-input-placeholder {
   opacity: 1 !important; 
 }
