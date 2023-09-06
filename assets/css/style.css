@@ -3462,6 +3462,14 @@ ______________________________________________________________________ */
   color: red;
 }
 
+.contact_form_blk  input::-webkit-input-placeholder {
+  opacity: 1 !important; / Increase opacity to /
+}
+
+
+.contact_form_blk  input::placeholder {
+ overflow: visible !important;
+}
 
 .robot_vfy {
   margin: 15px 0 30px;
